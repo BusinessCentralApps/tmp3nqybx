@@ -8,5 +8,6 @@
   "incrementalBuilds": {
     "enable": true
   },
-  "UseProjectDependencies": true
+  "UseProjectDependencies": true,
+  "templateSha": "3d883ee898ac27289ff70b92d07059ad328a0df6"
 }

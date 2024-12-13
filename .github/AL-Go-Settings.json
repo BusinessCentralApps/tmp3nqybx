@@ -1,13 +1,14 @@
 {
   "useCompilerFolder": true,
-  "type": "PTE",
-  "MicrosoftTelemetryConnectionString": "",
   "templateUrl": "https://github.com/freddydk/AL-Go@partial",
+  "MicrosoftTelemetryConnectionString": "",
   "useApproximateVersion": true,
+  "templateSha": "3d883ee898ac27289ff70b92d07059ad328a0df6",
   "doNotPublishApps": true,
   "incrementalBuilds": {
+    "mode": "modifiedAppsAndDependingApps",
     "enable": true
   },
-  "UseProjectDependencies": true,
-  "templateSha": "3d883ee898ac27289ff70b92d07059ad328a0df6"
+  "type": "PTE",
+  "UseProjectDependencies": true
 }

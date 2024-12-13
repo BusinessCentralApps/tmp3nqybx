@@ -1,0 +1,12 @@
+{
+  "useCompilerFolder": true,
+  "type": "PTE",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/freddydk/AL-Go@partial",
+  "useApproximateVersion": true,
+  "doNotPublishApps": true,
+  "incrementalBuilds": {
+    "enable": true
+  },
+  "UseProjectDependencies": true
+}
